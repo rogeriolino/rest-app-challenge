@@ -1,4 +1,4 @@
-# RESTful web application
+# RESTful application challenge
 
 Case study of RESTful web application implementations based on [PicPay](https://github.com/PicPay/trabalhe-conosco-backend-dev/) career challenge.
 
