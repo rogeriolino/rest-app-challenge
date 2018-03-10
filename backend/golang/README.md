@@ -31,6 +31,8 @@ To execute the application you need to expose the environment variables below:
 
 Then just execute the `bin/main` binary:
 
-  APP_DSN="user:pass@tcp(127.0.0.1)/dbname" \
-    APP_ADDR=":3000" \
-    bin/main
+```
+APP_DSN="user:pass@tcp(127.0.0.1)/dbname" \
+  APP_ADDR=":3000" \
+  bin/main
+```
